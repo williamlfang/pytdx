@@ -1,5 +1,7 @@
 # Pytdx - Python tdx数据接口
 
+> @william：开始正式研究 `pytdx` 行情接口
+
 [![Build Status](https://travis-ci.org/rainx/pytdx.svg?branch=master)](https://travis-ci.org/rainx/pytdx)
 
 文档
